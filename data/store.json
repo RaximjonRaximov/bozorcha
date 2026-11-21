@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Tog‘ asali",
+      "description": "Farg‘ona vodiysidan tabiiy, xushbo‘y asal.",
+      "price": 85000,
+      "category": "Oziq-ovqat",
+      "vendor": "Asalchi opa",
+      "stock": 18,
+      "emoji": "🍯"
+    },
+    {
+      "id": "p2",
+      "name": "Qo‘lda to‘qilgan savat",
+      "description": "Chinor novdasidan tayyorlangan mustahkam savat.",
+      "price": 120000,
+      "category": "Uy-ro‘zg‘or",
+      "vendor": "Usta Mahmud",
+      "stock": 7,
+      "emoji": "🧺"
+    },
+    {
+      "id": "p3",
+      "name": "Quritilgan mevalar",
+      "description": "Shakarsiz olma, o‘rik va mayiz aralashmasi.",
+      "price": 42000,
+      "category": "Oziq-ovqat",
+      "vendor": "Baraka bog‘i",
+      "stock": 32,
+      "emoji": "🍎"
+    },
+    {
+      "id": "p4",
+      "name": "Sopol piyola to‘plami",
+      "description": "Mahalliy kulol qo‘lidan chiqqan 2 dona piyola.",
+      "price": 95000,
+      "category": "Sovg‘a",
+      "vendor": "Kulolxona",
+      "stock": 11,
+      "emoji": "🏺"
+    },
+    {
+      "id": "p5",
+      "name": "Lavanda sovuni",
+      "description": "O‘simlik yog‘laridan tayyorlangan tabiiy sovun.",
+      "price": 28000,
+      "category": "Parvarish",
+      "vendor": "Toza uy",
+      "stock": 24,
+      "emoji": "🧼"
+    },
+    {
+      "id": "p6",
+      "name": "Jun paypoq",
+      "description": "Qish uchun issiq, yumshoq va tabiiy jun paypoq.",
+      "price": 55000,
+      "category": "Kiyim",
+      "vendor": "Mehr tikuvchilik",
+      "stock": 15,
+      "emoji": "🧦"
+    }
+  ],
+  "orders": []
+}
